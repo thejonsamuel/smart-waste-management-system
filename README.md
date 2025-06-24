@@ -1,4 +1,4 @@
-# smart-waste-management-system
+# Smart-Waste-Management-System
 
 This is an IoT-based system that monitors waste levels and sends alerts using ESP32 and Blynk IoT platform.
 This project measures the fill level of a dustbin in real-time and sends alerts when it reaches critical thresholds, enabling efficient waste collection.
