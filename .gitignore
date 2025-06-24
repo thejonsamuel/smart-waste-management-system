@@ -1,0 +1,16 @@
+*.pyc
+*.DS_Store
+*.swp
+__pycache__/
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.out
+*.o
+*.a
+*.d
+*.gz
+*.bak
